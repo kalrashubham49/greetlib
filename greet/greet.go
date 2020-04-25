@@ -13,3 +13,7 @@ func GreetRelative() {
 func GreetMe() {
 	fmt.Println("Hey!!! Dont you know i am learning Golang..!!")
 }
+
+func TestFunc() {
+	fmt.Println("Yeah dude, It's working")
+}
